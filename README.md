@@ -1,75 +1,31 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jiniuspark&style=flat-square&color=blue" alt="Profile views" />
-</p>
+<h1 align="center">Hey 👋 What's Up?</h1>
+<div align="center"> <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" /> </div>
+<div align="center"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" /> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" /> </div>
+<br>
+About
+First-year Computer Science student learning to code and figure things out. Interested in cybersecurity, machine learning, and building things that might actually matter.
 
-<h1 align="center">🔐 Jin Park</h1>
-<h3 align="center">Aspiring Cybersecurity Engineer | CS Student | Founder of ALEXANDRIA</h3>
+Currently exploring offensive security concepts, OSINT techniques, and how technology intersects with human rights and mental health advocacy.
 
-<p align="center">
-  <a href="mailto:jiniusme@pm.me">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="[https://www.linkedin.com/in/jiniuspark](https://www.linkedin.com/in/imjinpark/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/jiniuspark](https://github.com/JinParkmida)](https://github.com/JinParkmida)?tab=repositories&q=&type=&language=&sort=stargazers">
-    <img src="https://img.shields.io/badge/Top%20Repos-CyberSec-blue?style=flat-square" alt="Top Repos" />
-  </a>
-</p>
+<br>
+What I'm Learning
+Languages I'm working with: Python • JavaScript • Java • C • C++ • C# • Assembly
 
----
+Areas I'm exploring:
 
-## 🌱 About Me
+Machine Learning & AI fundamentals
+Security: RF hacking, social engineering, red teaming, OSINT
+ICS/SCADA systems and industrial controller security
+Frontend development (still figuring it out)
+What drives me: Building technology that supports human rights and mental health. Hoping to contribute to meaningful projects in these spaces while developing a career in cybersecurity.
 
-I’m **Jin Park**, a first-year CS student and self-taught dev pivoting into **cybersecurity**.  
-Founder of **ALEXANDRIA** (a human-first learning engine), now channeling that passion into building security tools and labs that teach both **how systems work** and **how they break**.
+<br>
+Other Things
+K-pop enthusiast, Red Bull dependent, still learning every day.
 
----
+Not an expert at anything yet—just putting in the work.
 
-## 🛠️ Cybersecurity Projects I am currently working on:
-
-:eyes: **TLS-Intercept GUI**  
-A full-stack MITM proxy (Node.js) with live Web UI for inspecting HTTPS certs, headers, and blocks.
-
-:shield: **Homebrew SSH Honeypot**  
-Dockerized honeypot that logs brute-force attempts and visualizes attacker IPs on an ELK dashboard.
-
-:robot: **IoT Vulnerability Scanner**  
-Python/Scapy tool to fingerprint local IoT devices, cross-reference CVEs, and auto-generate risk reports.
-
-:zap: **Mini CTF Challenge Suite**  
-A set of Dockerized web apps with OWASP Top 10 vulnerabilities and auto-grading scripts for hands-on practice.
-
----
-
-## 💻 Skills & Tools
-
-- **Languages:** Python · Node.js · Bash · PowerShell  
-- **Tools:** mitmproxy · Scapy · Wireshark · Nmap · Burp Suite Community  
-- **Platforms:** Docker · VirtualBox · ELK Stack · AWS Free Tier  
-- **Concepts:** TCP/IP · TLS/SSL · PKI · OSINT · Vulnerability Assessment · CTFs
-
----
-
-## 📚 Currently Learning
-
-- Network Protocols & Packet Crafting  
-- Cryptography & PKI Internals  
-- Windows & Linux Exploitation  
-- Secure DevOps & Infrastructure as Code  
-- Incident Response & Forensics
-
----
-
-## 🔍 Research Interests
-
-- 🔒 Adaptive Offensive & Defensive Tooling  
-- 🧩 Automated Recon & Enumeration Pipelines  
-- 🧠 AI-driven Threat Detection  
-- 🌐 Secure API Design & Pen-Testing  
-- 🧰 Human-centered Security UX
-
----
-<p align="center">
-  💜 Thanks for stopping by—let’s secure the future together. 💜  
-</p>
+<br>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=Kang-Sae-Byeok&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&ring=FF0080&fire=FF0080&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FF0080&dates=808080&sideLabels=FFFFFF" height="180" alt="streak graph" /> </div>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kang-Sae-Byeok/Kang-Sae-Byeok/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kang-Sae-Byeok/Kang-Sae-Byeok/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kang-Sae-Byeok/Kang-Sae-Byeok/output/github-contribution-grid-snake.svg"> </picture>
+<br> <div align="center"> <img src="https://komarev.com/ghpvc/?username=Kang-Sae-Byeok&color=000000&style=flat-square&label=Views" alt="profile views" /> </div>
