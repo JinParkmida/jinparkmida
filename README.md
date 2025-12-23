@@ -20,7 +20,7 @@ I care about how technology lands in real people’s lives. Mental health, power
 
 <br>
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/23e393c9-feaf-4dd2-be41-4a682d71e844" />
+<img width="112" height="61" alt="output-onlinepngtools" src="https://github.com/user-attachments/assets/936fa6dc-b6a1-46bb-982a-e29711d7efda" />
 
 A small human note: I run on Red Bull, live for music, game a lot, cook when I can, and spend time thinking about fashion, K-beauty, and visual systems.
 
