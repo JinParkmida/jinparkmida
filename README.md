@@ -20,11 +20,11 @@ I care about how technology lands in real people’s lives. Mental health, power
 
 <br>
 
-   ____
-  | RB |
-  |____|
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/23e393c9-feaf-4dd2-be41-4a682d71e844" />
 
 A small human note: I run on Red Bull, live for music, game a lot, cook when I can, and spend time thinking about fashion, K-beauty, and visual systems.
+
+<br>
 
 ### 02 / STACK
 
