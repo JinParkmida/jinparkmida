@@ -24,7 +24,7 @@ I care about how technology lands in real people’s lives. Mental health, power
 
 <img width="112" height="61" alt="output-onlinepngtools" src="https://github.com/user-attachments/assets/936fa6dc-b6a1-46bb-982a-e29711d7efda" />
 
-I run on Red Bull, live for music, game a lot, cook when I can, and spend time thinking about fashion, K-beauty, and visual systems.
+I run on Red Bull, live for music, game a lot, cook when I can, and think more than I probably should about fashion, K-beauty, and visual systems.
 
 <br>
 
