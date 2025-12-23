@@ -1,72 +1,44 @@
-# KANG SAE-BYEOK █ 강새벽
+# KANG SAE-BYEOK
 
-> **BSc. COMPUTER SCIENCE** | **ENTREPRENEUR** | **HUMAN RIGHTS ADVOCATE**
-
----
-
-### ┌── THE_ARCHIVES ──────────────────────────────────────────────┐
-
-### │ IDENTITY_MATRIX                                            │
-
-### └────────────────────────────────────────────────────────────┘
-
-| PARAMETER | VALUE |
-| :--- | :--- |
-| **CLASS** | First Year Student [BSc. CS] |
-| **FOCUS** | ML, AI, Cybersecurity [RF Hacking / OSINT / Red Teaming] |
-| **TARGET** | Industrial Controller / PLC Hacking |
-| **FUEL** | Red Bull + K-pop |
-| **STATUS** | `Learning` // `Building` // `Advocating` |
-
-<br>
-
-> **[MISSION_STATEMENT]**
->
-> *"To aid in human rights technology and software, mental health advocacy, and related technology."*
->
-> No fluff. Just meaningful contribution to science and society.
-
-<br>
-
-### ┌── TECH_INVENTORY ────────────────────────────────────────────┐
-
-### │ SKILL_SET [LOADING...]                                     │
-
-### └────────────────────────────────────────────────────────────┘
-
-Here is the current weapon loadout. Not an expert. Yet.
-
-| LANG | PROFICIENCY |
-| :--- | :--- |
-| **PYTHON** | `[██░░░░░░░░] 20%` |
-| **JS** | `[█░░░░░░░░░] 10%` |
-| **JAVA** | `[█░░░░░░░░░] 10%` |
-| **C / C++** | `[█░░░░░░░░░] 10%` |
-| **ASSEMBLY** | `[░░░░░░░░░░] 05%` |
-
-<!-- 
-    NOTE: Percentages are illustrative of "Not an expert". 
-    Raw data visualization.
--->
-
-<br>
-
-### ┌── INTERESTS_LOG ─────────────────────────────────────────────┐
-
-### │ ACTIVE_PROCESSES                                           │
-
-### └────────────────────────────────────────────────────────────┘
-
-* `[+]` **SOCIAL ENGINEERING**
-* `[+]` **RF HACKING**
-* `[+]` **OSINT**
-* `[+]` **MENTAL HEALTH TECH**
+**BSc. COMPUTER SCIENCE** | **ENTREPRENEUR** | **HUMAN RIGHTS ADVOCATE**
 
 ---
 
-> **SYSTEM NOTE:**
-> Don't frame me as an expert. I am a student. I am here to learn and build things that matter.
+### 01 / PROFILE
+
+| | |
+| :--- | :--- |
+| **IDENTITY** | First Year BSc. Computer Science Student |
+| **FOCUS** | Machine Learning, AI, Cybersecurity |
+| **SPECIALTY** | RF Hacking, OSINT, Red Teaming, Industrial Controller Security |
+| **INTERESTS** | Science, K-pop |
 
 <br>
 
-**[ END OF FILE ]** █
+### 02 / STACK
+
+**Languages (Active Learning Focus)**
+
+* Python
+* Javascript
+* Java
+* C / C++ / C#
+* Assembly
+
+**Capabilities**
+
+* **Social Engineering** // Red Teaming Operations
+* **Infrastructure** // PLC & SCADA Security Research
+* **Intelligence** // Open Source Intelligence (OSINT)
+
+<br>
+
+### 03 / MISSION
+
+> **"To contribute meaningfully to science, mental health, and human rights technology."**
+
+Developing technical solutions for human rights advocacy and mental health support.
+Avoiding empty aesthetics in favor of raw, effective utility.
+
+---
+**STATUS**: Student Practitioner. Not an expert.
