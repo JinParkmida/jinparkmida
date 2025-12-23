@@ -1,10 +1,11 @@
 # KANG SAE-BYEOK
-<img width="668" height="373" alt="unnamed__4_-removebg-preview" src="https://github.com/user-attachments/assets/c58a917d-594c-4bc0-94b0-988dbeb1a714" />
 
 **BSc. COMPUTER SCIENCE** | **ENTREPRENEUR** | **HUMAN RIGHTS ADVOCATE**
 
+![unnamed (4)](https://github.com/user-attachments/assets/0ad7117a-fc11-4ef6-a366-510c4deef6c2)
+
 ---
-![Uploading unnamed__4_-removebg-preview.png…]()
+
 
 ### 01 / PROFILE
 
