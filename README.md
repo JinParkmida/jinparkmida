@@ -44,14 +44,16 @@
 
 ## :dart: About ##
 
-Are you tired of manually editing your GitHub profile or missing out on the amazing features you can add to it? 😩 Configuring GitHub actions can also be a hassle, right? Say no more! 💪
-
-**Introducing a tool that lets you beautify your GitHub profile with a customized README, easily and in no time!** ✨ You can include whatever content you want, wherever you want it (*within the limitations of markdown, of course*). 📝
-
-**With this amazing tool, creating your own README has never been so simple and fast.** ⚡ You can save time and focus on what really matters - showcasing your skills and projects. 🚀
-
-**Don't miss out on the opportunity to enhance your GitHub profile.** Give it a try and see for yourself how easy and convenient it is! 😉
-
+소개 ∙ About
+First-year Computer Science student at [University Name]. Learning to build things and break things (ethically).
+Currently exploring cybersecurity, machine learning, and how technology can support human rights and mental health.
+<br>
+관심분야 ∙ Interests
+보안        Security          → OSINT, Red Teaming, Social Engineering, RF Hacking
+산업제어    Industrial        → ICS/SCADA, PLC Security
+인공지능    AI/ML             → Machine Learning Fundamentals, Neural Networks
+인권기술    Human Rights      → Privacy Tools, Advocacy Technology
+정신건강    Mental Health     → Digital Wellbeing, Support Systems
 
 <p align="center">
 <i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
