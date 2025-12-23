@@ -1,6 +1,6 @@
 # KANG SAE-BYEOK
 
-**BSc. COMPUTER SCIENCE** | **ENTREPRENEUR** | **HUMAN RIGHTS ADVOCATE**
+BSc. Computer Science | Entrepreneur | Human Rights & Mental Health
 
 ![unnamed (4)](https://github.com/user-attachments/assets/0ad7117a-fc11-4ef6-a366-510c4deef6c2)
 
