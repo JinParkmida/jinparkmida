@@ -1,153 +1,72 @@
-###
+# KANG SAE-BYEOK █ 강새벽
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="60" alt="rust logo"  />
-</div>
+> **BSc. COMPUTER SCIENCE** | **ENTREPRENEUR** | **HUMAN RIGHTS ADVOCATE**
 
-###
+---
 
-<div align="center">
-</div>
+### ┌── THE_ARCHIVES ──────────────────────────────────────────────┐
 
-###
+### │ IDENTITY_MATRIX                                            │
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JinParkmida&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=JinParkmida&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+### └────────────────────────────────────────────────────────────┘
 
-###
+| PARAMETER | VALUE |
+| :--- | :--- |
+| **CLASS** | First Year Student [BSc. CS] |
+| **FOCUS** | ML, AI, Cybersecurity [RF Hacking / OSINT / Red Teaming] |
+| **TARGET** | Industrial Controller / PLC Hacking |
+| **FUEL** | Red Bull + K-pop |
+| **STATUS** | `Learning` // `Building` // `Advocating` |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JinParkmida/JinParkmida/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JinParkmida/JinParkmida/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JinParkmida/JinParkmida/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-## :dart: About ##
-
-소개 ∙ About
-First-year Computer Science student at [University Name]. Learning to build things and break things (ethically).
-Currently exploring cybersecurity, machine learning, and how technology can support human rights and mental health.
 <br>
-관심분야 ∙ Interests
-보안        Security          → OSINT, Red Teaming, Social Engineering, RF Hacking
-산업제어    Industrial        → ICS/SCADA, PLC Security
-인공지능    AI/ML             → Machine Learning Fundamentals, Neural Networks
-인권기술    Human Rights      → Privacy Tools, Advocacy Technology
-정신건강    Mental Health     → Digital Wellbeing, Support Systems
 
-<p align="center">
-<i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
-</p>
+> **[MISSION_STATEMENT]**
+>
+> *"To aid in human rights technology and software, mental health advocacy, and related technology."*
+>
+> No fluff. Just meaningful contribution to science and society.
 
-https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
+<br>
 
-## :rocket: Main Technologies ##
+### ┌── TECH_INVENTORY ────────────────────────────────────────────┐
 
-<a href="https://nextjs.org">
-  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
-</a> &#xa0; &#xa0;
+### │ SKILL_SET [LOADING...]                                     │
 
-<a href="https://www.typescriptlang.org">
-  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
-</a> &#xa0; &#xa0;
+### └────────────────────────────────────────────────────────────┘
 
-<a href="https://tailwindcss.com">
-  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">
-</a> &#xa0; &#xa0;
+Here is the current weapon loadout. Not an expert. Yet.
 
-<a href="https://jestjs.io">
-  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
-</a> &#xa0; &#xa0;
+| LANG | PROFICIENCY |
+| :--- | :--- |
+| **PYTHON** | `[██░░░░░░░░] 20%` |
+| **JS** | `[█░░░░░░░░░] 10%` |
+| **JAVA** | `[█░░░░░░░░░] 10%` |
+| **C / C++** | `[█░░░░░░░░░] 10%` |
+| **ASSEMBLY** | `[░░░░░░░░░░] 05%` |
 
-<a href="https://eslint.org">
-  <img  width="50" title="Eslint" alt="Eslint Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</a> &#xa0; &#xa0;
+<!-- 
+    NOTE: Percentages are illustrative of "Not an expert". 
+    Raw data visualization.
+-->
 
-<a href="https://prettier.io">
-  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
-</a>
+<br>
 
-###
+### ┌── INTERESTS_LOG ─────────────────────────────────────────────┐
 
-<details>
-  <summary>See more</summary>
+### │ ACTIVE_PROCESSES                                           │
 
-  ###
+### └────────────────────────────────────────────────────────────┘
 
-  * [Shadcn](https://ui.shadcn.com)
-  * [Radix](https://www.radix-ui.com)
-  * [Lucid Icons](https://lucide.dev)
-  * [clsx](https://github.com/lukeed/clsx#readme)
-  * [Tailwind Merge](https://github.com/dcastil/tailwind-merge#readme)
-  * [Tailwind Variants](https://www.tailwind-variants.org)
-  * [Framer Motion](https://framer.com/motion/)
-  * [Prismjs](https://prismjs.com)
-  * [HTML Prettify](https://github.com/Dmc0125/html-prettify#readme)
-  * [React Share](https://github.com/nygardk/react-share)
-  * [React Markdown](https://github.com/remarkjs/react-markdown#readme)
-  * [UUID](https://github.com/uuidjs/uuid#readme)
+* `[+]` **SOCIAL ENGINEERING**
+* `[+]` **RF HACKING**
+* `[+]` **OSINT**
+* `[+]` **MENTAL HEALTH TECH**
 
-</details>
+---
 
-## :white_check_mark: Requirements ##
+> **SYSTEM NOTE:**
+> Don't frame me as an expert. I am a student. I am here to learn and build things that matter.
 
-Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your system. ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
+<br>
 
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/maurodesouza/profile-readme-generator
-
-# Access
-$ cd profile-readme-generator
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn dev
-
-# The server will initialize in the <http://localhost:3000>
-```
-
-## :video_game: Scripts
-
-- `dev`: starts the application at `localhost:3000`;
-- `build`: creates an optimized production build of the application;
-- `start`: starts the application in production mode at localhost:3000 (make sure to run the build first);
-- `test`: runs the tests;
-- `lint`: runs eslint in the /src directory.
-
-## :memo: License ##
-
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
-
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
+**[ END OF FILE ]** █
