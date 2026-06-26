@@ -1,70 +1,119 @@
-KANG SAE-BYEOK
-<br>
-— 강 새 벽 —
-
-**BSc. Computer Science | Entrepreneur | Human Rights & Mental Health**
-
-![unnamed (4)](https://github.com/user-attachments/assets/0ad7117a-fc11-4ef6-a366-510c4deef6c2)
-
----
-
-
-### 01 / PROFILE
-
-I’m Kang Sae-Byeok. I’m a first-year BSc Computer Science student, and I didn’t arrive here through the usual pipeline. I’ve been a tech nerd most of my life, but it took time — and pressure — to stop orbiting technology and actually commit to building things properly.
-
-What interests me are systems that have to work when conditions aren’t friendly: systems under load, under attack, or used by people who don’t get second chances. That’s what pulled me toward security, adversarial thinking, and machine learning — not as buzzwords, but as practical tools that shape who gets protected, who gets exposed, and who carries the cost when things fail.
-
-I’m especially drawn to RF security, OSINT, red teaming, and industrial or embedded systems — places where mistakes aren’t theoretical and “close enough” isn’t good enough. I learn best by testing assumptions, breaking things carefully, and watching how systems behave when they’re stressed, misused, or pushed past what they were designed for.
-
-I care about how technology lands in real people’s lives. Mental health, power imbalance, and human rights aren’t side topics to me — they’re part of the environment systems operate in. I’m not interested in tech that looks elegant on paper but collapses in reality. If it can’t survive contact with the real world, it’s unfinished.
+<p align="center">
+  <img src="./wannacry_eye.png" alt="ASCII eye with a single tear" width="100%">
+</p>
 
 <br>
 
-**01.01 / A small human note:**
+# A Parable: The Refinery and Time
 
-<img width="112" height="61" alt="output-onlinepngtools" src="https://github.com/user-attachments/assets/936fa6dc-b6a1-46bb-982a-e29711d7efda" />
+At dusk, when the towers took on the color of wet steel, Time came down to the Han.
 
-I run on Red Bull, live for music, game a lot, cook when I can, and think more than I probably should about fashion, K-beauty, and visual systems.
+It came as rust beneath railings, as damp in stairwells, as paint drying over old stains, as the smell of rooms made clean before anyone asked why they had gone quiet.
 
-<br>
+Beside the river stood a refinery.
 
-### 02 / STACK
+Its pipes crossed the bank like black veins. Its windows burned after midnight. Its gates opened before morning and closed with the softness of a practiced mouth.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="60" alt="rust logo"  />
-</div>
+“What do you refine?” asked Time.
 
-<br>
+“Hunger,” said the refinery. “Fear. Shame. Childhood. Duty. Whatever enters.”
 
-**Capabilities**
+“And what do you produce?”
 
-* **Social Engineering** // Red Teaming Operations
-* **Infrastructure** // PLC & SCADA Security Research
-* **Intelligence** // Open Source Intelligence (OSINT)
+“Order.”
 
-<br>
+The Han moved under the bridge.
 
-### 03 / MISSION
+All night the people entered.
 
-> **To contribute to open-source and open-knowledge technology in service of science, mental health, and human rights — prioritizing access, transparency, and intellectual freedom.**
+Children came with sleep still in them. Workers came with their names folded small. Lovers came separately. Women came carrying futures the building had already priced. Men came with silence where their voices should have been. Some came with bodies the forms would not hold. Some came with papers that had crossed the sea before they understood water.
 
----
-**STATUS**: Student. Not an expert.
+The refinery accepted what could be tightened.
 
+The rest passed through smaller doors.
+
+“Where do those doors lead?” asked Time.
+
+“To private matters,” said the refinery.
+
+Time touched the concrete.
+
+It was still warm.
+
+“Private is a word machines use when disposal has curtains.”
+
+The refinery made a low sound.
+
+“You speak against necessity.”
+
+“I have watched necessity become appetite.”
+
+“You speak against sacrifice.”
+
+“I have watched altars learn to call themselves homes.”
+
+“You speak against progress.”
+
+“I have watched progress eat the future and blame the empty room.”
+
+Above them, thousands of little windows opened in the hands of the crowd.
+
+Each window watched. Each window spoke. Each window looked for something soft enough to punish.
+
+“Who taught them to bite?” asked Time.
+
+“No one,” said the refinery. “They are free.”
+
+“Then why do they all draw blood in the same direction?”
+
+The refinery did not answer.
+
+From somewhere beyond the river came an old song.
+
+It was not loud. It was not pure. It had crossed too many throats to belong to the clean.
+
+Some heard longing in it. Some heard obedience. Some heard a road over a ridge.
+
+Time heard something else.
+
+It heard someone stop before permission was given. It heard a hand searching in the dark. It heard a name refusing the shape of its file.
+
+“Songs do not repair pipes,” said the refinery.
+
+“No,” said Time. “But they remember who was breathing before the pipe was built.”
+
+The refinery brightened its lamps.
+
+“There was nothing here before me.”
+
+“There were seasons.”
+
+“Seasons are slow.”
+
+“So are children.”
+
+“Children become useful.”
+
+“Only after something is taken.”
+
+For a while, only the river moved.
+
+Near dawn, the gates opened again.
+
+The floor was washed. The forms were dry. The mirrors obedient. The small doors unmarked.
+
+“Will you leave now?” asked the refinery.
+
+“No,” said Time.
+
+“Will you stop me?”
+
+Time looked at the river.
+
+The refinery asked again.
+
+“Will you save them?”
+
+The Han passed beneath the next bridge.
+
+Time did not answer.
