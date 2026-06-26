@@ -26,7 +26,11 @@ The Han moved under the bridge.
 
 All night the people entered.
 
-Children came with sleep still in them. Workers came with their names folded small. Lovers came separately. Women came carrying futures the building had already priced. Men came with silence where their voices should have been. Some came with bodies the forms would not hold. Some came with papers that had crossed the sea before they understood water.
+Children came with sleep still in them. Workers came with their names folded small. Lovers came separately. Women came carrying futures the building had already priced. Men came with silence where their voices should have been.
+
+Some came with bodies the forms would not hold.
+
+Some came with papers that had crossed the sea before they understood water.
 
 The refinery accepted what could be tightened.
 
@@ -58,7 +62,11 @@ The refinery made a low sound.
 
 Above them, thousands of little windows opened in the hands of the crowd.
 
-Each window watched. Each window spoke. Each window looked for something soft enough to punish.
+Each window watched.
+
+Each window spoke.
+
+Each window looked for something soft enough to punish.
 
 “Who taught them to bite?” asked Time.
 
@@ -70,13 +78,25 @@ The refinery did not answer.
 
 From somewhere beyond the river came an old song.
 
-It was not loud. It was not pure. It had crossed too many throats to belong to the clean.
+It was not loud.
 
-Some heard longing in it. Some heard obedience. Some heard a road over a ridge.
+It was not pure.
+
+It had crossed too many throats to belong to the clean.
+
+Some heard longing in it.
+
+Some heard obedience.
+
+Some heard a road over a ridge.
 
 Time heard something else.
 
-It heard someone stop before permission was given. It heard a hand searching in the dark. It heard a name refusing the shape of its file.
+It heard someone stop before permission was given.
+
+It heard a hand searching in the dark.
+
+It heard a name refusing the shape of its file.
 
 “Songs do not repair pipes,” said the refinery.
 
@@ -100,7 +120,13 @@ For a while, only the river moved.
 
 Near dawn, the gates opened again.
 
-The floor was washed. The forms were dry. The mirrors obedient. The small doors unmarked.
+The floor was washed.
+
+The forms were dry.
+
+The mirrors obedient.
+
+The small doors unmarked.
 
 “Will you leave now?” asked the refinery.
 
