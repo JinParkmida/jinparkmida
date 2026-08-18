@@ -267,7 +267,7 @@ def info_lines(stats):
     return [
         [(f"{USER.lower()}@github ", "h"), ("─" * (INFO_WIDTH - len(USER) - 8), "d")],
         [],
-        kv("OS", "Windows 11 | Kali Linux"),
+        kv("OS", "Windows 11, Kali Linux"),
         kv("Uptime", f"{years} years, {months} months, {days} days"),
         kv("Role", "B.Sc. CS student · Dev · Researcher"),
         kv("Location", "Scandinavia"),
