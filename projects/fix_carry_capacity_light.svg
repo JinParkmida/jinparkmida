@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Fix Carry Capacity B42 project highlight">
+  <rect x="0.5" y="0.5" width="899" height="259" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+
+  <g font-family="Consolas, Menlo, Monaco, ui-monospace, monospace">
+    <text x="26" y="34" font-size="12.5">
+      <tspan fill="#0969da">selected_work@jinparkmida </tspan>
+      <tspan fill="#afb8c1">──────────────────────────────────────────────</tspan>
+    </text>
+
+    <text x="26" y="78" font-size="28" font-weight="700" fill="#24292f">Fix Carry Capacity B42</text>
+    <text x="26" y="104" font-size="13.5" fill="#57606a">Project Zomboid · Lua · first published mod</text>
+
+    <text x="26" y="142" font-size="12.5">
+      <tspan fill="#953800">What it does: </tspan>
+      <tspan fill="#24292f">extends the vanilla 50 carry-cap ceiling to a usable 1–100</tspan>
+    </text>
+
+    <text x="26" y="166" font-size="12.5">
+      <tspan fill="#953800">Design: </tspan>
+      <tspan fill="#24292f">dependency-free · SP/MP · no Java/core patching</tspan>
+    </text>
+
+    <rect x="26" y="192" width="118" height="30" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="85" y="212" text-anchor="middle" font-size="11.5" fill="#1a7f37">12,627 subs</text>
+
+    <rect x="154" y="192" width="138" height="30" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="223" y="212" text-anchor="middle" font-size="11.5" fill="#0969da">2,737 collections</text>
+
+    <rect x="302" y="192" width="128" height="30" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="366" y="212" text-anchor="middle" font-size="11.5" fill="#24292f">27,648 visitors</text>
+
+    <rect x="440" y="192" width="116" height="30" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="498" y="212" text-anchor="middle" font-size="11.5" fill="#cf222e">593 favorites</text>
+
+    <line x1="617" y1="58" x2="617" y2="217" stroke="#d0d7de"/>
+
+    <text x="650" y="82" font-size="12.5" fill="#57606a">CURRENT SUBSCRIBERS</text>
+    <text x="650" y="128" font-size="38" font-weight="700" fill="#24292f">12,627</text>
+    <text x="650" y="158" font-size="12.5" fill="#1a7f37">real-world adoption</text>
+    <text x="650" y="184" font-size="11.5" fill="#57606a">Steam Workshop</text>
+    <text x="650" y="206" font-size="11" fill="#afb8c1">stats · 28 Sep 2026</text>
+  </g>
+</svg>
